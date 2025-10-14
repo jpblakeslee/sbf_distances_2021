@@ -1,10 +1,10 @@
-# SBF distances:,,,,,,,,,,,,, 2025 version
-# "Jensen, J. B. et al. 2021, ApJS, 255, 21",,,,https://ui.adsabs.harvard.edu/abs/2021ApJS..255...21J/abstract,,,,,,,,,
-# "Jensen, J. B. et al. 2025, arXiv:2502.15935",,,,https://ui.adsabs.harvard.edu/abs/2025arXiv250215935J/abstract,,,,,,,,,
-# "Blakeslee, J. P. et al. 2021, ApJ, 911, 65",,,,https://ui.adsabs.harvard.edu/abs/2021ApJ...911...65B/abstract,,,,,,,,,
-# "Granavich, P. M. et al. 2023, ApJ, 953, 35",,,,https://ui.adsabs.harvard.edu/abs/2023ApJ...953...35G/abstract,,,,,,,,,
-# ,,,,,,,,,,,,,
-# ,(m-M) 2021,uncertainty_2021,(m-M) 2025,uncertainty_2025,SN_hosts,change_(2025-2021),v_gal,v_grp,v_flow,v_2M++,v_rms,N_grp,Notes_2025
+# SBF distances:,,,,,,,,,,,, 2025 version
+# "Jensen, J. B. et al. 2021, ApJS, 255, 21",,,,https://ui.adsabs.harvard.edu/abs/2021ApJS..255...21J/abstract,,,,,,,,
+# "Jensen, J. B. et al. 2025, ApJ, 987, 87",,,,https://doi.org/10.3847/1538-4357/addfd6,,,,,,,,
+# "Blakeslee, J. P. et al. 2021, ApJ, 911, 65",,,,https://ui.adsabs.harvard.edu/abs/2021ApJ...911...65B/abstract,,,,,,,,
+# "Granavich, P. M. et al. 2023, ApJ, 953, 35",,,,https://ui.adsabs.harvard.edu/abs/2023ApJ...953...35G/abstract,,,,,,,,
+# ,,,,,,,,,,,,
+# ,(m-M) 2021,uncertainty_2021,(m-M) 2025,uncertainty_2025,SN_hosts,change_(2025-2021),v_gal,v_grp,v_flow,v_2M++,v_rms,N_grp
 # Galaxy     (mbar-Mbar)[2021]  (mbar-Mbar)[2025]  SN/no   delta     v_gal    v_grp    v_flow   v_2M++   v_rm   N_grp
 IC_2597      33.673 ± 0.082     33.685 ± 0.102     SN      0.012     3334     4099     4003     4227     648     85     
 NGC_0057     34.126 ± 0.094     34.086 ± 0.116     no     -0.040     5088     5278     5875     5485     339      6     
@@ -48,7 +48,7 @@ NGC_2765     33.725 ± 0.083     33.685 ± 0.088     SN     -0.040     4086     
 NGC_2962     32.532 ± 0.084     32.526 ± 0.089     SN     -0.006     2300     2354     2485     2490      57      2     
 NGC_3158     34.806 ± 0.099     34.793 ± 0.108     SN     -0.013     7170     7185     7490     7120     388     13     
 NGC_3392     33.861 ± 0.088     33.843 ± 0.133     SN     -0.018     3340     3456     3953     3751     121      2     
-# NGC_3504   32.683 ± 0.095     nan    ± nan       no       nan      1829     1760     1981     2009     110      2     """part of a different project; not re-analyzed"""
+# NGC_3504   32.683 ± 0.095     nan    ± nan       no       nan      1829     1760     1981     2009     110      2 
 NGC_3842     34.711 ± 0.102     34.665 ± 0.115     no     -0.046     6561     6987     6665     6656     707     61     
 NGC_4036     31.776 ± 0.078     31.784 ± 0.076     SN      0.008     1574     1442     1580     1693     124      3     
 NGC_4073     34.646 ± 0.141     34.626 ± 0.15      no     -0.020     6268     6380     6152     6154     358     13     
@@ -68,4 +68,4 @@ NGC_6964     33.685 ± 0.096     33.646 ± 0.115     SN     -0.039     3494     
 NGC_7052     33.957 ± 0.092     33.954 ± 0.104     no     -0.003     4362     4412     4353     4561       0      1     
 NGC_7242     34.504 ± 0.104     34.500 ± 0.137     no     -0.004     5439     5610     6284     5703     389     17     
 NGC_7619     33.341 ± 0.081     33.321 ± 0.084     no     -0.020     3391     3043     3237     3102     306     16     
-# ESO125-G0  34.896 ± 0.195     nan    ± nan       no      nan       6762     6883     6766     6752       0      1     """no optical colors; not re-analyzed on the new calibration"""
+# ESO125-G0  34.896 ± 0.195     nan    ± nan       no      nan       6762     6883     6766     6752       0      1 
