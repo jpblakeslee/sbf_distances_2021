@@ -1,4 +1,4 @@
-# sbf_distances_2025
+# SBF Distances 2021 -- Updated calibration 2025
 This repository contains two tables containing SBF distances as published in Jensen et al. 2021 and 2025. The original data are from HST WFC3/IR F110W.
 
 The first file is ApJS_255_21_SBFdistances2021. It contains the published values used by Jensen et al. 2021 in ApJS 255:21, https://ui.adsabs.harvard.edu/abs/2021ApJS..255...21J. 
